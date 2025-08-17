@@ -1,2 +1,3 @@
-for absorbing and remembering knowledge.
+For absorbing and remembering knowledge.
+
 
