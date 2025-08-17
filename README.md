@@ -1,1 +1,2 @@
-"# Hippocampus P" 
+for absorbing and remembering knowledge.
+
