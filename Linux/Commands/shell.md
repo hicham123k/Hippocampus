@@ -1,4 +1,4 @@
-# File & directory management
+## File & directory management
 
 ls → list files
 
@@ -9,7 +9,7 @@ create multiple dirs in one go:  mkdir -p /intranet/uplouds
 
 rm → remove files/directories
 
-# User & permission management
+## User & permission management
 add user:    $sudo adduser editor
 create group:  $sudo addgroup grpnet
 add users to a group:   sudo gpasswd editor,viewer,admin grpnet
@@ -23,7 +23,7 @@ set ownership to a certain group and root: sudo shown :grpnet /intranet/uplouds 
 
 chmod → change permissions
 
-System monitoring
+## System monitoring
 
 top → show running processes
 
@@ -31,7 +31,7 @@ df -h → check disk space
 
 free -m → check memory usage
 
-Networking
+## Networking
 
 ping → test connection
 
