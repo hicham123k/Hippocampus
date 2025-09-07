@@ -36,3 +36,12 @@ free -m → check memory usage
 ping → test connection
 
 curl / wget → download files
+
+
+## Random 
+
+How to change the font : sudo dpkg-reconfigure console-setup
+
+mkdir -p /gparent/parent/dir : p for parent, it will create all the parent directories in the path if they dont exist 
+
+echo "<?php phpinfo(); ?>" | sudo tee /var/www/intranet/public/index.php   //tee takes takes input from standard input and writes it to a file. 
